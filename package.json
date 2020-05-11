@@ -1,0 +1,26 @@
+{
+  "name": "wswebserver",
+  "version": "1.0.0",
+  "description": "websocket example project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ni-do/wswebserver.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "webserver",
+    "websockets"
+  ],
+  "author": "Niklas Donath",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ni-do/wswebserver/issues"
+  },
+  "homepage": "https://github.com/ni-do/wswebserver#readme"
+}
